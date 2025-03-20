@@ -1,0 +1,4 @@
+[Entry]=[Date]=====[Serial Number]=[Internet Device]==[Customer Name]====[Location]======[Actions]
+#001====20Mar2025==Pro7.2,050R======ZongEPT-081========Mehmood Alam=======MianChannu======Cleaning
+#002====20Mar2025==Pro7.1,098N======Nodevice===========Tanweer Hussain====Khanewal======CellBypass DoubleSupperCap
+#002====20Mar2025==Pro7.1,198N======Nodevice===========Jawad Hussain======Arif Wala llBypass DoubleSupper   
