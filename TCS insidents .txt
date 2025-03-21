@@ -1,6 +1,6 @@
-[Entry]====[Date]===[Serial Number]==[Internet Device]====[Customer Name]=====[Location]========[Actions]
-#001====20Mar2025==Pro7.2, 050R======ZongEPT-081========Mehmood Alam=====MianChannu======Cleaning
-#002====20Mar2025==Pro7.1, 098N======Nodevice===========Tanweer Hussain====Khanewal========CellBypass, DoubleSupperCap,
-#003====20Mar2025==Pro7.1, 198N======Nodevice===========Jawad Hussain======Arif Wala=========CellBypass, DoubleSupperCap,   
-#004====21Mar2025==Pro7.2, 419N======OD-EPT-161========M.Mubeen Riaz======Khanewal========= DoubleSupperCap,
-#005====21Mar2025==Pro7.2, 392N======Nodevice===========Asghar Ali==========Burewala========= DoubleSupperCap, ButtonCutt,
+[Entry]====[Date]===[Serial Number]==[Internet Device]====[Customer Name]=====[Location]======[Status]======[Actions]
+#001====20Mar2025==Pro7.2, 050R======ZongEPT-081========Mehmood Alam=====MianChannu====TcsSent=====Cleaning
+#002====20Mar2025==Pro7.1, 098N======Nodevice===========Tanweer Hussain====Khanewal======TcsSent=====CellBypass, DoubleSupperCap,
+#003====20Mar2025==Pro7.1, 198N======Nodevice===========Jawad Hussain======Arif Wala======TcsSent======CellBypass, DoubleSupperCap,   
+#004====21Mar2025==Pro7.2, 419N======OD-EPT-161========M.Mubeen Riaz======Multan========TcsSent====== DoubleSupperCap,
+#005====21Mar2025==Pro7.2, 392N======Nodevice===========Asghar Ali==========Burewala======NotSent======DoubleSupperCap, ButtonCutt,
