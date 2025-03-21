@@ -3,4 +3,7 @@
 #002====20Mar2025==Pro7.1, 098N======Nodevice===========Tanweer Hussain====Khanewal======TcsSent=====CellBypass, DoubleSupperCap,
 #003====20Mar2025==Pro7.1, 198N======Nodevice===========Jawad Hussain======Arif Wala======TcsSent======CellBypass, DoubleSupperCap,   
 #004====21Mar2025==Pro7.2, 419N======OD-EPT-161========M.Mubeen Riaz======Multan========TcsSent====== DoubleSupperCap,
-#005====21Mar2025==Pro7.2, 392N======Nodevice===========Asghar Ali==========Burewala======NotSent======DoubleSupperCap, ButtonCutt,
+#005====21Mar2025==Pro7.2, 392N======Nodevice===========Asghar Ali==========Burewala======NotSent======DoubleSupperCap, ButtonCutt, Cleaning
+#006====21Mar2025==Pro7.2, 387N======OD-EPT-212========Mohsin Raza=========Khanewal=====NotSent======DoubleSupperCap, ButtonCutt, Cleaning
+#007====21Mar2025==ULt2.0, 014N======                     ========                                                                                          ====DoubleSupperCap, NewCell
+ 
