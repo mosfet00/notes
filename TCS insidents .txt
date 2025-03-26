@@ -15,3 +15,5 @@
 #014====24Mar2025==Pro7.1, 092R==========================================================================DoubleSupperCap
 #015====25Mar2025==Pro7.2, 406N======OD-EPT-193========M.Saleem============MianChannu========NotSent=====ButtonCutt
 #016====25Mar2025==Pro7.0, 015R==========================================================================DoubleSupperCap, ButtonCutt
+#017====26Mar2025==Pro7.2, 418N========================Shamshaad Hussain===Okara kent====================DoubleSupperCap, ButtonCutt
+#018====26Mar2025==Pro7.2, 435N======OD-EPT-246========M.Sajad=============Harrapa===BurnedIsRepared=====FuseSMD3x, DoubleSupperCap, Double5vSupply, 3PhaseDiodes
