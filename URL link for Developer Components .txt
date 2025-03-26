@@ -1,0 +1,49 @@
+LInk for list  
+
+esp32 
+https://digilog.pk/products/esp32-nodemcu?_pos=3&_sid=a2447b53c&_ss=r
+
+ESP32S3
+https://digilog.pk/products/esp32-s3-wroom-1-development-board-2-4g-wifi-bt-module-ble5-0-in-pakistan?_pos=10&_sid=a2447b53c&_ss=r
+
+Ds18b20 Temperature Sensor
+https://digilog.pk/products/ds18b20-water-proof-temperature-sensor-in-pakistan?_pos=2&_sid=f6bc621a7&_ss=r
+
+Hw-330 Capacitive Soil Moisture Sensor 
+https://digilog.pk/products/capacitive-soil-moisture-sensor-arduino-soil-moisture-sensor?_pos=2&_sid=de2494d48&_ss=r
+
+Pt100 Rtd Temperature Sensor Amplifier Module Max31865
+https://digilog.pk/products/max31865-pt100-rtd-temperature-sensor-amplifier-module-in-pakistan?_pos=1&_sid=a756fe532&_ss=r
+
+Platinum Rtd Sensor – Pt100 3-wire
+https://digilog.pk/products/platinum-rtd-sensor-pt100-3-wire?_pos=2&_sid=a6a7d0a0d&_ss=r
+
+MPU-9250 9DOF Module 9 axis Attitude Gyro Compass Acceleration
+https://digilog.pk/products/mpu9250-9-dof-3-axis-accelerometer-gyro-and-magnetometer?_pos=1&_sid=4d24dd242&_ss=r
+
+Em-18 Em18 Rfid 
+https://digilog.pk/products/em-18-em18-rfid-reader-module-in-pakistan?_pos=1&_sid=37ea048af&_ss=r
+
+ 0.96 Inch OLED Display Module 128x64 I2C SSD 1306
+ https://digilog.pk/products/arduino-0-96-inch-iic-oled-display-128x64-i2c-ssd1306-lcd-screen-in-pakistan?_pos=2&_sid=fc7eedb12&_ss=r
+ 
+ Male To Male Jumper Wire
+ https://digilog.pk/products/20cm-pin-to-pin-jumper-wire-dupont-line-40-pin-arduino-male-to-male-jumper-wire-in-pakistan?_pos=3&_sid=85ae7f8e5&_ss=r
+ 
+ 
+ Male To Female Jumper Wires
+ https://digilog.pk/products/20cm-hole-jumper-wire-dupont-line-40-male-female-arduino-wires?_pos=2&_sid=85ae7f8e5&_ss=r
+ 
+ 
+ Female To Female Jumper Wires
+ https://digilog.pk/products/20cm-hole-to-hole-jumper-wrie-dupont-line-40-pin-arduino-jumper-wire-in-pakistan?_pos=8&_sid=85ae7f8e5&_ss=r
+ 
+ Breadboard 830 Points 
+ https://digilog.pk/products/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality-in-pakistan?_pos=1&_sid=96e2be106&_ss=r
+ 
+ W5500 Spi To Ethernet Module
+ https://digilog.pk/products/w5500-spi-to-ethernet-module-in-pakistan?_pos=1&_sid=71a50cddf&_ss=r
+ 
+ 
+ 
+ 
