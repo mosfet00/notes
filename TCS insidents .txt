@@ -18,3 +18,6 @@
 #017====26Mar2025==Pro7.2, 418N========================Shamshaad Hussain===Okara kent====================DoubleSupperCap, ButtonCutt
 #018====26Mar2025==Pro7.2, 435N======OD-EPT-246========M.Sajad=============Harrapa===BurnedIsRepared=====FuseSMD3x, DoubleSupperCap, Double5vSupply, 3PhaseDiodes
 #019====27Mar2025==Pro7.2, 381N======OD-EPT-221========Ikram Ahmad=========Multan========================DoubleSupperCap, ButtonCutt,
+#020====27Mar2025==Pro7.2, 460N======TelenorEpt-154====Aqeel Abbas=========Esakheel======================Cleaning
+#021====28Mar2025==Pro7.1, 132N======OD-EPT-228========Afzal Aslam=========Sahiwal=======================Cleaning
+#022====28Mar2025==Pro7.1, 106N========================Aqeel Akhtar========TibaSultanPur=================DoubleSupperCap, FirmwareHeader
