@@ -1,0 +1,13 @@
+[Entry]====[COMPONENT]========================================[AVALIBLE]
+#-001=======Esp32 ============================================(ONLINE)
+#-002=======Esp32-S3==========================================(ONLINE)
+#-003=======TempretureSensor For PT100========================(ONLINE)
+#-004=======SoilMoistureSensor================================(ONLINE)
+#-005=======PT100-TempretureSensor Module=====================(KOHINOOR)
+#-006=======Accelerometer (i2c-SPI)===========================(ONLINE)
+#-007=======125khz RfidCardReader (Uart)======================(KOHINOOR)
+#-008=======Oled (i2c) =======================================(IN-OFFICE)
+#-009=======Jummper wire all  M-to-M, M-to-F, F-to-F==========(ONLINE)
+#-010=======BreadBoard========================================(ONLINE)
+#-011=======Wiznet W5500 Ethernet Controller =================(IN-OFFICE)
+#-012=======DS18B20 Temperature Sensor========================(KOHINOOR)

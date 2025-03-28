@@ -17,3 +17,4 @@
 #016====25Mar2025==Pro7.0, 015R==========================================================================DoubleSupperCap, ButtonCutt
 #017====26Mar2025==Pro7.2, 418N========================Shamshaad Hussain===Okara kent====================DoubleSupperCap, ButtonCutt
 #018====26Mar2025==Pro7.2, 435N======OD-EPT-246========M.Sajad=============Harrapa===BurnedIsRepared=====FuseSMD3x, DoubleSupperCap, Double5vSupply, 3PhaseDiodes
+#019====27Mar2025==Pro7.2, 381N======OD-EPT-221========Ikram Ahmad=========Multan========================DoubleSupperCap, ButtonCutt,
