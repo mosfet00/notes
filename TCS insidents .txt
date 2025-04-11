@@ -21,3 +21,4 @@
 #020====27Mar2025==Pro7.2, 460N======TelenorEpt-154====Aqeel Abbas=========Esakheel======================Cleaning
 #021====28Mar2025==Pro7.1, 132N======OD-EPT-228========Afzal Aslam=========Sahiwal=======================Cleaning
 #022====28Mar2025==Pro7.1, 106N========================Aqeel Akhtar========TibaSultanPur=================DoubleSupperCap, FirmwareHeader
+#023====10Apr2025==Pro7.2, 336N======OD-EPT-041========Salman Malik========Bahawalpur====================DoubleSupperCap, Cleaning, ButtonCutt
