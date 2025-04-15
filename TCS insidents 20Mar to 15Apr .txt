@@ -1,0 +1,28 @@
+[Entry]====[Date]===[Serial Number]==[Internet Device]==[Customer Name]====[Location]=======[Status]=====[Actions]
+#001====20Mar2025==Pro7.2, 050R======ZongEPT-081=======Mehmood Alam=========MianChannu=======TcsSent=====Cleaning
+#002====20Mar2025==Pro7.1, 098N======Nodevice==========Tanweer Hussain======Khanewal=========TcsSent=====CellBypass, DoubleSupperCap,
+#003====20Mar2025==Pro7.1, 198N======Nodevice==========Jawad Hussain========Arif Wala========TcsSent=====CellBypass, DoubleSupperCap,   
+#004====21Mar2025==Pro7.2, 419N======OD-EPT-161========M.Mubeen Riaz========Multan===========TcsSent=====DoubleSupperCap,
+#005====21Mar2025==Pro7.2, 392N======Nodevice==========Asghar Ali===========Burewala=========NotSent=====DoubleSupperCap, ButtonCutt, Cleaning
+#006====21Mar2025==Pro7.2, 387N======OD-EPT-212========Mohsin Raza==========Khanewal=========NotSent=====DoubleSupperCap, ButtonCutt, Cleaning
+#007====21Mar2025==ULt2.0, 014N==========================================================================DoubleSupperCap, NewCell
+#008====22Mar2025==Pro7.2, 353N======OD-EPT-088========Junaid Ali===========Khanewal=========NotSent=====ButtonCutt
+#009====22Mar2025==Pro7.2, 291N======OD-EPT-087========Junaid Ali===========Khanewal=========NotSent=====Cleaning
+#010====22mar2025==Pro7.1, 098N==========================================================================RunCap
+#011====24Mar2025==Pro7.2, 441N==========================================================================DoubleSupperCap,  RTCCapp
+#012====24Mar2025==Pro7.2, 376R==========================================================================DoubleSupperCap
+#013====24Mar2025==Pro7.2, 496R==========================================================================DoubleSupperCap
+#014====24Mar2025==Pro7.1, 092R==========================================================================DoubleSupperCap
+#015====25Mar2025==Pro7.2, 406N======OD-EPT-193========M.Saleem============MianChannu========NotSent=====ButtonCutt
+#016====25Mar2025==Pro7.0, 015R==========================================================================DoubleSupperCap, ButtonCutt
+#017====26Mar2025==Pro7.2, 418N========================Shamshaad Hussain===Okara kent====================DoubleSupperCap, ButtonCutt
+#018====26Mar2025==Pro7.2, 435N======OD-EPT-246========M.Sajad=============Harrapa===BurnedIsRepared=====FuseSMD3x, DoubleSupperCap, Double5vSupply, 3PhaseDiodes
+#019====27Mar2025==Pro7.2, 381N======OD-EPT-221========Ikram Ahmad=========Multan========================DoubleSupperCap, ButtonCutt,
+#020====27Mar2025==Pro7.2, 460N======TelenorEpt-154====Aqeel Abbas=========Esakheel======================Cleaning
+#021====28Mar2025==Pro7.1, 132N======OD-EPT-228========Afzal Aslam=========Sahiwal=======================Cleaning
+#022====28Mar2025==Pro7.1, 106N========================Aqeel Akhtar========TibaSultanPur=================DoubleSupperCap, FirmwareHeader
+#023====10Apr2025==Pro7.2, 336N======OD-EPT-041========Salman Malik========Bahawalpur====================DoubleSupperCap, Cleaning, ButtonCutt
+#024====11Apr2025==Pro7.0, 061R==========================================================================DoubleSupperCap, ButtonCutt, FirmwareHeader, RunCap,    Supply2xCapsChange  
+#025====11Apr2025==Pro7.1, 099R==========================================================================DoubleSupperCap, ButtonCutt, FirmwareHeader, RTCbypass, Supply2xCapsChange, RunCap
+#026====11Apr2025==Pro7.1, 103R==========================================================================DoubleSupperCap, ButtonCutt, FirmwareHeader, RTCbypass, Supply2xCapsChange 
+#027====15Apr2025==Pro7.2, 287N======OD-EPT-120========Salahudin===========Sahiwal=======================DoubleSupperCap, RunCap, GreenConnecterWiring
