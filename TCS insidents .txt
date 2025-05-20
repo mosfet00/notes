@@ -26,3 +26,9 @@
 #025====11Apr2025==Pro7.1, 099R==========================================================================DoubleSupperCap, ButtonCutt, FirmwareHeader, RTCbypass, Supply2xCapsChange, RunCap
 #026====11Apr2025==Pro7.1, 103R==========================================================================DoubleSupperCap, ButtonCutt, FirmwareHeader, RTCbypass, Supply2xCapsChange 
 #027====15Apr2025==Pro7.2, 287N======OD-EPT-120========Salahudin===========Sahiwal=======================DoubleSupperCap, RunCap, GreenConnecterWiring
+#028====18Apr2025==Pro7.1, 136N========================Nisar Ahmad=========Burewala======================FirmwareHeader, Had DoubleSupperCap
+#029====18Apr2025==Pro7.2, 275N==========================================================================FirmwareTested
+#030====18Apr2025==Pro7.2, 214N======OD-EPT-064========Saeed Gill==========Sahiwal=======================BatteryReplace, DoubleSupperCap
+#031====21Apr2025==Pro7.2, 373N======OD-EPT-200========Qaiser Farooq Chima=Burewala======================DoubleSupperCap, LimitFuseBypass, ButtonCutt, AntenaReplaced
+#032====19Apr2025==Pro7.2, 372R======OD-EPT-201========Amanullah===========Gojra=========================Double5vSupply, DoubleSupperCap, FuseSMD6x , 3PhaseDiodes, LimitFuseBypass,ESDdiodeRemoved
+
